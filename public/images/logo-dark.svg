@@ -1,6 +1,3 @@
-<img 
-  src="/images/logo-dark1.svg" 
-  alt="Aurrus Consulting Logo" 
-  width="42" 
-  height="21" 
-/>
+<svg width="42" height="21" viewBox="0 0 42 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <image href="/images/logo-dark1.svg" width="42" height="21" />
+</svg>
